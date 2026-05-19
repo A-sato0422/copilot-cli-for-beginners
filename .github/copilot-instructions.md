@@ -2,6 +2,11 @@
 
 These instructions guide GitHub Copilot when working in this repository.
 
+## Language
+
+- **すべての出力を日本語で行うこと。** コード説明、コメント、回答、提案など、ユーザーへの返答はすべて日本語で記述する。
+- コードブロック内のコード自体（変数名・関数名など）は英語のままでよいが、説明文は日本語にすること。
+
 ## Project Context
 
 This is a **beginner-friendly educational course** teaching GitHub Copilot CLI. The repo contains Markdown chapters (00–07), Python/C#/JavaScript sample apps, and supporting assets (images, demo GIFs, glossary). It is **not** a software product — it is technical courseware.
